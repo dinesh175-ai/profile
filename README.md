@@ -1,5 +1,5 @@
 # 💫 About Me:
-RESUME SUMMARY<br>" I'm currently pursuing final year b.tech the brach of CSM(AI &ML) at Sri Venkateswara <br>College of engineering and technology which is located at Chittoor, I am good at these  <br>technical skills in Python,  Few Machine learning libraries  ,data analysis. Looking to leverage <br>skills in a dynamic team."<br> I Am recently worked at apex planet software pvt limited based on the data analyst role so i have a experiance on data analyst, and i am good at power bi<br>
+RESUME SUMMARY<br>" I'm currently pursuing final year b.tech the brach of CSM(AI &ML) at Sri Venkateswara <br>College of engineering and technology which is located at Chittoor, I am good at these  <br>technical skills in Python,  Few Machine learning libraries  ,data analysis. Looking to leverage <br>skills in a dynamic team."<br> I Am recently worked at apex planet software pvt limited based on the data analyst role so i have an experiance on data analyst, and i am good at power bi<br>
 
 
 ## 🌐 Socials:
