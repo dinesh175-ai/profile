@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm currently pursuing final year b.tech the brach of CSM(AI &ML) at Sri Venkateswara <br>College of engineering and technology which is located at Chittoor, I am good at these  <br>technical skills in Python,  Few Machine learning libraries  ,data analysis. Looking to leverage <br>skills in a dynamic team."<br> I Am recently worked at apex planet software pvt limited based on the data analyst role so i have an experiance on data analyst, and i am good at power bi<br>
+<br>Computer Science and Engineering (Artificial Intelligence & Machine Learning) with hands-on internship experience as a Data Analyst at Apex Planet Software Pvt. Ltd. Skilled in Python, data analysis,machine learning, and data visualization. Proficient in working with NumPy, Pandas, Matplotlib, Seaborn, PyTorch, and TensorFlow. Also experienced in Power BI, Tableau,Excel, and NoSQL databases. A quick learner with strong analytical and problem-solving.<br>
 
 
 ## 🌐 Socials:
